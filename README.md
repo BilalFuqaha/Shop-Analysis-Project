@@ -5,7 +5,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png?raw=true" alt="Cookies Dashboard Banner" width="1000" height="500">
+  <img src="sales-dashboard.png" alt="Cookies Dashboard Banner" width="1000" height="500">
 </div>
 
 ---
